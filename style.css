@@ -1,0 +1,21 @@
+body
+  {
+    color: rgb(97, 90, 216);
+    background-image: "miranha.png";
+    background-size: cover;
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: rgb(0, 0, 0);
+  }
